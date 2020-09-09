@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Sílvio Dumba",
+    "occupation": "Desenvolvedor Web & Mobile, Instrutor de Programação",
+    "description": "A.k.a #FábricaDeIdeas.",
+    "image": "Stevie.jpeg",
+    "bio": "Eu sou o Sílvio, um desenvolvedor Fullstack de nacionalidade Angolana, atualmente possuo minha startup e faço trabalhos freelance ",
+    "contactmessage": "Me contate caso queira me contratar para desenvolver alguma coisa, ou se quiser aprender a programar",
+    "email": "silviojava2@gmail.com",
+    "phone": "+244 933 003 593 / +244 991 215 352",
+    "address": {
+      "street": "Avenida Comandante Van-Dúnem 'Loy', Futungo de Belas ",
+      "city": "Belas",
+      "state": "Luanda",
+      "zip": "------"
+    },
+    "website": "http://omnicode.co.ao",
+    "resumedownload": "http://omnicode.co.ao",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/silviojava",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/steviejames/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/steviejamessj/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/steviejames",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Tenho domínio das principais tecnologias do mercado",
+    "education": [
+      {
+        "school": "Instituto Superior Politécnico de Ciências e Tecnologias",
+        "degree": "Engenharia Informática",
+        "graduated": "Frequentando",
+        "description": "Continuo me formando."
+      }
+    ],
+    "work": [
+      {
+        "company": "Omnicode",
+        "title": "C.E.O / Desenvolvedor",
+        "years": "Março de 2020 - Presente",
+        "description": "Desenvolvendo soluções que impactem a nossa sociedade."
+      },
+      {
+        "company": "SJRT - Prestação de Serviços & Comércio",
+        "title": "Desenvolvedor fullstack",
+        "years": "Maio de 2019 - Presente",
+        "description": "Tornando realidade as ideas de centenas de clientes"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Websites",
+        "level": "75%"
+      },
+      {
+        "name": "Aplicativos Móveis",
+        "level": "75%"
+      },
+      {
+        "name": "React Native",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "55%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "QUINO FOODS",
+        "category": "Website para restaurantes com serviço de takeaway e entregas",
+        "image": "whatsapp-mern.jpeg",
+        "url": "quino.netlify.app"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
